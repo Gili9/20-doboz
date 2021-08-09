@@ -1,0 +1,28 @@
+#first, #second{
+    width: 400px;
+    height: 50px;
+    margin: 10px;
+    border: 1px rgb(0, 132, 255) solid;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 10px;
+}
+
+#second{
+    background: tomato;
+}
+
+.blue{
+    width: 30px;
+    height: 30px;
+    background: rgb(0, 132, 255);
+    margin: 5px;
+}
+
+.violet{
+    width: 30px;
+    height: 30px;
+    background: rgb(121, 5, 121);
+    margin: 5px;
+}
